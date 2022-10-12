@@ -37,7 +37,6 @@ INTROSPECT v1 : syncs CV detection data saved to local .txt, and controls the pr
 INTROSPECT v1 : based on CV signals, generates YouTube Videos (uses YouTube Data API), also includes 2 postFX (OpticalFlow_GLSL + MovieFeedbackEffect)
 
 ![Photo edit_0000001](https://user-images.githubusercontent.com/60975534/195415432-415a16c1-86f6-4976-a6a4-514d4016ac15.jpg)
-![Photo edit_000003](https://user-images.githubusercontent.com/60975534/195415453-8d763c8d-d52b-48f5-8674-1f3d1f6f65c0.jpg)
 ![Photo edit_000009](https://user-images.githubusercontent.com/60975534/195415464-6b049899-7894-4cfd-8031-72576afeff9d.jpg)
 
 
