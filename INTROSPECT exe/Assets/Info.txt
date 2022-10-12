@@ -1,0 +1,40 @@
+
+Instructions  /  体验指示:
+
+  -  Please face directly towards your device camera. / 请面向设备摄像头。
+
+  -  First click on the Open-Eye icon at bottom center to check camera preview. Adjust your position if necessary, for the program to effectively track your eyes.
+     /需先点击中间的睁眼图标以查看程序所读取的摄像头画面。为了程序能更准确的捕捉、识别双眼，请根据情况调整自己或设备的位置。
+
+  -  EAR : Eye Aspect Ratio on the bottom left is adjustable, controls the threshold for the computer to determine open/closed eyes. (Average between 0.4 ~ 0.5) 
+     /左下角的EAR阈值可直接输入调改，其控制计算机视觉对于用户睁眼或闭眼的判断。阈值越高，灯光越容易被触发； 反之越低，光越容易熄灭。
+
+  -  Once ready, close camera preview by clicking the same icon, and maximize the program window. Initiate the experience simply by closing your eyes. 
+     /准备好后，再点击睁眼图标以关闭摄像头预览，放大程序窗口，闭上双眼即可开启体验。
+
+  *  DO NOT proceed if there are any discomforts or concerns associating with eyes and vision.
+  *  如有任何双眼、视觉相关的不适或忧虑，请勿继续体验。
+
+____________________________________________________________________________________________________________________________________________
+
+
+About Human Vision  /  关于人类视觉:
+
+
+A range between 380 ~ 760 nanometers of the electromagnetic wavelength is the perceptible scope of light entering the human cornea, which are converted into 
+neuronal signals by the retina, to be processed by the visual cortex of our brain. Constructing what and how we see.
+当适宜波长范围内（380 ~ 760纳米）的电磁波刺激，经折光系统与视网膜，作为视神经信号由大脑进行编码、分析后，便产生视觉。
+
+Our visual perception is responsible for at least 80% of the information we acquire, and 80% of our memories.
+我们的视觉感知负责至少80%以上外界信息的接收，与我们80%的记忆。
+
+With just an average weight of 28 grams, human eyes are constituted by over 2 million working parts, hundreds of millions of photoreceptor cells and billions of neurons.
+人眼区区28克的重量，却具备两百多万个组成部分，一亿多个感光细胞与近百亿个神经元。
+
+As the most active muscle group, our eyes can process 36,000 pieces of information in a single hour, it is considered as the second most complex organ after the brain.
+作为人体最活跃的肌群，我们的眼睛每小时能处理36,000个信息，是除去大脑，人体最复杂的器官。
+
+____________________________________________________________________________________________________________________________________________
+
+	More about Introspect (installation), visit: 	https://www.connorysmatla.art/selected-work
+
